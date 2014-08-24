@@ -2,6 +2,9 @@
 
 Click to toggle button for angularJS.
 
+## Installation
+bower install ngToggle
+
 ## Usage: 
 
 Include ngToggle.js somewhere.
