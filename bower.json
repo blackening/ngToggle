@@ -1,0 +1,6 @@
+{
+    "name": "ngToggle",
+    "version": "0.0.1",
+	"main": "ngToggle.js",
+	"ignore": ["LICENSE", "README.md"]
+}
